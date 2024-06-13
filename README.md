@@ -6,7 +6,7 @@ I'm a programmer based in Pensacola. I'm currently studying at UWF and I have a 
 ## 🛠 Skills
 - Languages: Java, Python, JavaScript, PHP
 - Tools/Frameworks: React.js, Node.js, Flask
-- Others: Travelling, Continuous Learning 
+- Others: Travelling,Japanese,Continuous Learning 
 
 ## 📫 How to reach me:
 - LinkedIn: [Your LinkedIn URL]
