@@ -9,7 +9,8 @@ I'm a programmer based in Pensacola. I'm currently studying at UWF and I have a 
 - Others: Travelling,Japanese,Continuous Learning 
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/wesley-roulaine-67a1bb270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 - Twitter: [Your Twitter handle]
 - Email: [Your email]
 
