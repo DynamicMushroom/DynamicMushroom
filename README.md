@@ -4,7 +4,7 @@
 I'm a programmer based in Pensacola. I'm currently studying at UWF and I have a passion for coding and travel. I'm proficient in React.js, Node.js, Flask, Java, Python, JavaScript, and PHP.
 
 ## 🛠 Skills
-- Languages: Java, Python, JavaScript, PHP
+- Languages: C++, Java, Python, JavaScript, PHP
 - Tools/Frameworks: React.js, Node.js, Flask
 - Others: Travelling,Japanese,Continuous Learning 
 
