@@ -9,7 +9,7 @@ I also make websites and other software solutions for people, leveraging my dive
 ## 🛠 Skills
 - Languages: C++, Java, Python, JavaScript, PHP
 - Tools/Frameworks: React.js, Node.js, Flask
-- Others: Travelling,Japanese,Continuous Learning 
+- Others: Travelling, Japanese, Continuous Learning 
 
 ## 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/wesley-roulaine-67a1bb270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
