@@ -17,6 +17,10 @@ I also make websites and other software solutions for people, leveraging my dive
 - Email: motoz65@outlook.com
 
 ## ⚡ Fun Fact:
-I travel a lot and love exploring new cultures and places. Before going to school for IT, video games sparked my interest in programming. This passion for both technology and exploration drives me to seek opportunities where I can travel and work, experiencing new people and places. I aim to learn about the world and share my experiences through writing, blending my technical skills with my love for adventure.
+I travel a lot and love exploring new cultures and places. Before going to school for IT, video games sparked my interest in programming. This passion for both technology and exploration drives me to seek opportunities where I can travel and work, experiencing new people and places. I aim to learn about the world and share my experiences through writing, blending my technical skills with my love for adventure. I aloso study Japanese and have learned a good deal of the language.
+
+私のGitHubへようこそ。ご一緒にお仕事できることを楽しみにしております。
+
+
 
 I'm always on the lookout for exciting projects that allow me to combine my programming expertise with my desire to explore and document new cultures. Let's connect and create something amazing together!
