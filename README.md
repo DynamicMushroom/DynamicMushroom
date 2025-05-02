@@ -1,6 +1,6 @@
 
 # Hello, I'm Wesley Roulaine! 👋
-I'm a programmer based in Pensacola. I'm currently studying at UWF and I have a passion for coding and travel. I'm proficient in React.js, Node.js, Flask, Java, Python, JavaScript, and PHP.
+I'm a programmer based in Illinios. I have a passion for coding and travel. I'm proficient in React.js, Node.js, Flask, Java, Python, JavaScript, and PHP.
 
 I travel a lot and love exploring new cultures and places. Before going to school for IT, video games sparked my interest in programming. This passion for both technology and exploration drives me to seek opportunities where I can travel and work, experiencing new people and places. I aim to learn about the world and share my experiences through writing, blending my technical skills with my love for adventure.
 
