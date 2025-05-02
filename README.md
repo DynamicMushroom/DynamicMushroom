@@ -21,4 +21,4 @@ I travel a lot and love exploring new cultures and places. Before going to schoo
 
 
 
-I'm always on the lookout for exciting projects that allow me to combine my programming expertise with my desire to explore and document new cultures. Let's connect and create something amazing together!
+I'm always on the lookout for exciting projects that allow me to combine my programming expertise with my desire to explore and document new cultures. 
